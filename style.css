@@ -5,6 +5,11 @@
     font-family: "Poppins", serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
+
 /* heder section  */
 .nav-sec{
     background-image: linear-gradient(to left ,#8b7aff,#5647b5);
